@@ -1,0 +1,31 @@
+import {
+  SCREENS,
+  COLORS,
+  FONTFAMILY,
+  IMAGES,
+  SIZES,
+  FONTS,
+  STYLES,
+  width,
+  height,
+  CONSTANTS,
+  FIREBASECONSTANTS,
+  APPSTATE,
+  appTheme,
+} from './theme';
+
+export {
+  SCREENS,
+  COLORS,
+  FONTFAMILY,
+  IMAGES,
+  SIZES,
+  FONTS,
+  STYLES,
+  CONSTANTS,
+  FIREBASECONSTANTS,
+  width,
+  height,
+  APPSTATE,
+  appTheme,
+};
